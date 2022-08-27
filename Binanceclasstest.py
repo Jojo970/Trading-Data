@@ -78,8 +78,8 @@ class GetBinanceClient:
 
 binance_coin = input('Enter Binance Pair (ex. BNBBTC):')
 
-binance = GetBinanceClient('Wu1e4Thcwnlt8lRCxh5hrlV7XzLA8Ai7mLC5xfkkzUnouVb6D71RtCJXfFvVIa0v',
- 'XKmqS1PSB0zcE6Cn9j4WuDzrgekgGCkb43SVaCKbUlWUa48r8zc01u7KGSf0oiQE')
+binance = GetBinanceClient('API Key Goes Here',
+ 'API Secret Key Here')
 binance.b_getclient()
 
 while True:

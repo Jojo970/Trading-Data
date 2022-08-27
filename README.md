@@ -1,7 +1,7 @@
 # Trading-Data
 Data Analysis/ Experiments with APIs
 
-###This is a Collection
+##This is a Collection
 
 This repository is a collection of all the analysis work I did to create my StackedBot.
 
